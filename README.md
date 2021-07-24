@@ -1,1 +1,3 @@
-# playground_python
+## Folder content:
++ leetcode coding challenges
++ hackerrank coding challenges
