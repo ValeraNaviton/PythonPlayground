@@ -6,9 +6,13 @@ import random
 import re
 import sys
 
-
 #
-# Complete the 'equalizeArray' function below.
+# https://www.hackerrank.com/challenges/equality-in-a-array/problem
+#
+#
+# Complete the 'equalizeArray' function beloW
+#
+#
 #
 # The function is expected to return an INTEGER.
 # The function accepts INTEGER_ARRAY arr as parameter.
